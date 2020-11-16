@@ -1,2 +1,2 @@
-# C-28
-Creating the slingshot effect for the angry-birds game.
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
